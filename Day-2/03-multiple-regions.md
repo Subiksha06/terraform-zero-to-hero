@@ -1,6 +1,6 @@
 # Multiple Region Implementation in Terraform
 
-You can make use of `alias` keyword to implement multi region infrastructure setup in
+You can make use the of `alias` keyword to implement multi region infrastructure setup in
 terraform.
 
 ```

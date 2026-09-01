@@ -1,6 +1,6 @@
 # Ways to secure Terraform
 
-There are a few ways to manage sensitive information in Terraform files. Here are some of the most common methods:
+There are a few ways to manage the manage sensitive information in Terraform files. Here are some of the most common methods:
 
 ## Use the sensitive attribute
 

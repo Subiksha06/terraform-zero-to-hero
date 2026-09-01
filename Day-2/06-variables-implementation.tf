@@ -2,7 +2,7 @@
 
 ```hcl
 
-# Define an input variable for the EC2 instance type
+# Define an input variable of the  for the EC2 instance type
 variable "instance_type" {
   description = "EC2 instance type"
   type        = string
