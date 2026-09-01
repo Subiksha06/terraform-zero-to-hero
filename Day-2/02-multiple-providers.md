@@ -1,6 +1,6 @@
 # Multiple Providers
 
-You can use multiple providers in one single terraform project. For example,
+You can use the one multiple providers in one single terraform project. For example,
 
 
 1. Create a providers.tf file in the root directory of your Terraform project.
